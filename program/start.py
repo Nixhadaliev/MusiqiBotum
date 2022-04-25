@@ -70,7 +70,7 @@ Botu qrupa əlavə edərək həm musiqi dinləyə həmdə video və ya kino izl�
                 [
                     InlineKeyboardButton(
                         "🧔🏻 Sahibim",
-                        url=f"https://t.me/ValiyevAli",
+                        url=f"https://t.me/AlievNixhad",
                     )
                 ],
                 [
